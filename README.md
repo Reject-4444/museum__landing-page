@@ -1,4 +1,4 @@
-**Live version:** https://reject-4444.github.io/museum__landing-page/.
+**Live version:** [Museum landing](https://reject-4444.github.io/museum__landing-page/)
 
 **Technologies Used:**
 - HTML
